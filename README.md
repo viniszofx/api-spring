@@ -58,7 +58,6 @@ docker-compose up -d
 
 - **API Base**: http://localhost:8080/
 - **Tickets**: http://localhost:8080/ticket
-- **Health Check**: http://localhost:8080/actuator/health
 
 ## 📊 Endpoints da API
 
